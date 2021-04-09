@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color:seashell;
+}
+h1 {
+  margin: 0;
+  padding: 30px;
+  font-family: "Dancing Script", cursive;
+  font-size: 3rem;
+  color: green;
+}
+h2 {
+  font-family: "Averia Serif Libre", cursive;
+  font-size: 2.5rem;
+  color: #ccffbd;
+}
+h3 {
+  font-family: "Dancing Script", cursive;
+  color: cornflowerblue;
+}
+p{line-height: 2;}
+
+hr{border:dotted;color:skyblue;width: 4%;border-bottom: none;margin: 100px auto;}
+a{color: #ccffbd;font-family: "Dancing Script", cursive;margin: 10px 30px;text-decoration: none;}
+a:hover{color: #ffffff;}
+
+.top-container {
+  background-color: pink;
+}
+.middle-container{margin:100px auto;}
+.bottom-container{background-color:skyblue;padding: 10px; }
+.facial-scr{width: 30%;margin: auto;}
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 20px;
+}
+.buttom-cloud {
+  position: absolute;
+  left: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align:left;
+
+   
+}
+.contact-messsage{width:40%;margin: auto;}
+.skin-img{width: 40%;float:left;margin-right: 10px;}
+.facial-img{width:40%;float:right;margin-left: 10px;}
+.facial-scr{line-style: 2;}
+.mybutton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:16px;
+	border:4px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:11px 6px;
+	text-decoration:none;
+	text-shadow:0px -4px 16px #283966;
+}
+.mybutton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.mybutton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{color: white;font-size:0.7rem;padding:10px 0 10px;}
+
+}
+
+
+
+
+
